@@ -47,4 +47,41 @@
 # a= mylist[1:3]
 # print(a)
 
+# tuple
+
+
+# mytuple = ("aaladin", "aaladinchirag", 23)
+# print(mytuple)
+
+# mytuple[0] = "aal"
+
+# tuple is immutable
+
+# mytuple = ("a","b","c","d","e","f","g","h")\
+
+# print(mytuple.index("g"))
+
+# b = mytuple[2:5]
+# print(b)
+
+# name, age ,city = mytuple
+
+# print(name)
+
+# print(age)
+
+# print(city)
+
+# import sys
+
+# my_list = [0,0,3,"hello", True]
+# my_tuple = [0,2,3,"hello", True]
+
+# print(sys.getsizeof(my_list), "bytes")
+# print(sys.getsizeof(my_tuple), "bytes")
+
+# import time
+
+
+# dictionary
 
