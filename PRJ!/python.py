@@ -85,3 +85,76 @@
 
 # dictionary
 
+# mydict = {"name":"ayush", "age":"5", "city":"jbps"}
+# print(mydict)
+
+# mydict["email"] = "ayush@231.com"
+# print(mydict)
+
+# mydict.popitem()
+# print(mydict)
+
+# print(mydict)
+
+# mydict = {"name":"ayush", "age":"5", "city":"jbps"}
+# print(mydict)
+
+# try:
+#     print(mydict["name"])
+
+# except:
+#     print("error")
+
+
+# mydict = {"name":"ayush", "age":"5", "city":"jbps"}
+
+# # for value,key in mydict.items():
+# #     print(value, key)
+
+
+# mydict_cpy = mydict
+# print
+
+# mydict_cpy["age"] = "10"
+
+# print(mydict)
+
+# print(mydict_cpy)
+
+# mydict = {"name":"ayush", "age":"5", "city":"jbps"}
+# mydict_cpy = {"name":"ayu", "age":"25", "city":"indr","email":"myemail"}
+
+# mydict.update(mydict_cpy)
+
+# print(mydict)
+
+# mydict = {3,6,9,36,9,8}
+# print(mydict)
+
+# mytuple = {0,7}
+# mydict = {mytuple: 15}
+
+# print(mydict)
+
+# sets?
+# myset = set()
+# myset = {1,2,3,4,}
+
+odds = {1,3,5,7,9}
+even = {0,2,4,6,8}
+prime ={2,3,5,7}
+
+u = odds.union(even)
+print(u)
+
+i = odds.intersection(prime)
+print(i)
+
+
+set_a = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+set_b =  {0, 1, 2, 4, 6, 8, 9}
+
+diff = set_a - set_b
+print(diff)
+
+print(set_a.isdisjoint)
