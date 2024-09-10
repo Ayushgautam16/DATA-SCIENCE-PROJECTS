@@ -195,6 +195,36 @@
 # [1, 3, 6, 10, 15, 21, 28]
 
 
-from itertools import groupby
+# from itertools import groupby
 
-a = [1,2,3,4,5,6,7]
+# a = [1,2,3,4,5,6,7]
+
+
+
+# lambda function
+
+# add10 = lambda x: x + 10
+# print(add10(5))
+# def add10_func(x):
+#     return x + 10
+
+# mult = lambda x,y: x*y
+# print(mult(2,7))
+
+
+# points20 = [1,2,8,5,5,6,798,32,3]
+
+# print(points20)
+# print (sorted(points20))
+
+# a = [99,4,54,5,787,8797,345,4]
+# print(sorted(a))
+
+# a = [1,2,3,5,6,7,8,9,]
+# b = [7,6,5,4,3,3,4,6]
+
+# print(set(a) & set(b))
+
+a = [1,2,3,5,6,7,8,9,]
+b = [7,6,5,4,3,3,4,6]
+
