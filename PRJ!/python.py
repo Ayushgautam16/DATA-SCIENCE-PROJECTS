@@ -140,21 +140,28 @@
 # myset = set()
 # myset = {1,2,3,4,}
 
-odds = {1,3,5,7,9}
-even = {0,2,4,6,8}
-prime ={2,3,5,7}
+# odds = {1,3,5,7,9}
+# even = {0,2,4,6,8}
+# prime ={2,3,5,7}
 
-u = odds.union(even)
-print(u)
+# u = odds.union(even)
+# print(u)
 
-i = odds.intersection(prime)
-print(i)
+# i = odds.intersection(prime)
+# print(i)
 
 
-set_a = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
-set_b =  {0, 1, 2, 4, 6, 8, 9}
+# set_a = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+# set_b =  {0, 1, 2, 4, 6, 8, 9}
 
-diff = set_a - set_b
-print(diff)
+# diff = set_a - set_b
+# print(diff)
 
-print(set_a.isdisjoint)
+# print(set_a.isdisjoint)
+# my_str = '''hell this is ayush gautam
+# lorem ipsum dolor lorem30
+
+# print(my_str)'''
+
+# print(my_str)
+
