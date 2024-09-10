@@ -164,4 +164,37 @@
 # print(my_str)'''
 
 # print(my_str)
+# from itertools import product
+# a= [1,2,3]
+# b= [4,5,6,7,8,9]
 
+# prod = product(a,b, repeat =2)
+# print(list(prod))
+
+
+# from itertools import permutations
+# a = [1,2,3]
+# perm = permutations(a)
+# print(list(perm))
+
+# from itertools import combinations, combinations_with_replacement
+# a = [1,2,3,4,5,6,7]
+# comb = combinations(a,2)
+# print(list(comb))
+
+# comb_wr = combinations_with_replacement(a,2)
+# print(list(comb_wr))
+
+# from itertools import accumulate
+# a = [1,2,3,4,5,6,7]
+# acc = accumulate(a)
+# print(a)
+# print(list(acc))
+
+# [1, 2, 3, 4, 5, 6, 7]
+# [1, 3, 6, 10, 15, 21, 28]
+
+
+from itertools import groupby
+
+a = [1,2,3,4,5,6,7]
