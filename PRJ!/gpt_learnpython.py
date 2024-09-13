@@ -134,3 +134,36 @@ print("this is jarvis speaking sir")
 
 # nmae = (input("enter your name"))
 # print(nmae, "Enter your name")
+
+
+
+
+# Problem 3: Simple Calculator
+# Task:
+# Write a Python program that asks the user for two numbers and then prints the sum of those numbers.
+
+# Concepts Covered:
+# Taking input from the user using input()
+# Converting string input to integers or floats using int() or float()
+# Performing basic arithmetic operations
+# Printing output
+# Example:
+# python
+# Copy code
+# # Ask the user for two numbers
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+# Calculate the sum
+sum_result = num1 + num2
+
+# Print the result
+print("The sum of", num1, "and", num2, "is:", sum_result)
+# Explanation:
+# input() takes user input as a string. We use float() to convert the input to a floating-point number, so the program can handle both integers and decimal numbers.
+sum_result = num1 + num2 
+# performs the addition.
+# The result is printed using the print() function, which combines variables and strings to display the output.
+# Try it out and see how it works! Let me know when you're ready for the next problem.
+
+
