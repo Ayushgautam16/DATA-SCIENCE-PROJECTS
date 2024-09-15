@@ -9,12 +9,12 @@
 
 # paddle A
 
-paddle_a = turtle.Turtle()
-paddle_a.speed(0)
-paddle_a.shape("square")
-paddle_a.color("white")
+# paddle_a = turtle.Turtle()
+# paddle_a.speed(0)
+# paddle_a.shape("square")
+# paddle_a.color("white")
 
-paddle_a.background
+# paddle_a.background
 
 
 # main game loop
