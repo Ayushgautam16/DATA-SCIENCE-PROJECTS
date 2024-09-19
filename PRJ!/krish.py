@@ -25,47 +25,47 @@ print(c.shape)
 
 # get type?
 
-print(a.dtype)
-print(b.dtype)
-print(c.dtype)
+# print(a.dtype)
+# print(b.dtype)
+# print(c.dtype)
 
-# get size
+# # get size
 
-print(a.size)
-print(b.size)
-print(c.size)
+# print(a.size)
+# print(b.size)
+# print(c.size)
 
-# get item
+# # get item
 
-print(a[0])
-print(b[0, 0])
-print(c[0, 0, 0])
+# print(a[0])
+# print(b[0, 0])
+# print(c[0, 0, 0])
 
-# get slice
+# # get slice
 
-print(a[1:])
-print(b[1:, 1:])
-print(c[1:, 1:, 1:])
+# print(a[1:])
+# print(b[1:, 1:])
+# print(c[1:, 1:, 1:])
 
-# change item   
+# # change item   
 
-a[0] = 10
-b[0, 0] = 10
-c[0, 0, 0] = 10
+# a[0] = 10
+# b[0, 0] = 10
+# c[0, 0, 0] = 10
 
-print(a)
-print(b)
-print(c)
+# print(a)
+# print(b)
+# print(c)
 
-# get the specific row
+# # get the specific row
 
-print(b[0, :])
+# print(b[0, :])
 
-# step size
+# # step size
 
-print(a[::2])
-print(b[::2, ::2])
-print(c[::2, ::2, ::2])
+# print(a[::2])
+# print(b[::2, ::2])
+# print(c[::2, ::2, ::2])
 
-# change shape
+# # change shape
 
