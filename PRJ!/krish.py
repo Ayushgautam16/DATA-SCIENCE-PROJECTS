@@ -1,12 +1,12 @@
-import numpy as np
+# import numpy as np
 
-# For a 1D array
-a = np.array([1, 2, 3, 4])
-print(a)
+# # For a 1D array
+# a = np.array([1, 2, 3, 4])
+# print(a)
 
-# For a 2D array (matrix)
-b = np.array([[1, 2, 3, 4], [6, 7, 8, 9]])
-print(b)
+# # For a 2D array (matrix)
+# b = np.array([[1, 2, 3, 4], [6, 7, 8, 9]])
+# print(b)
 
 
 # For a 3D array (cube)
