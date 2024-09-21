@@ -69,101 +69,101 @@
 # NumPy (10 problems): Array manipulations, indexing, and math operations.
 # Matrix multiplication, statistical operations on arrays.
 # Pandas (10 problems): Data manipulation with DataFrames.
-# Read a CSV, filter data, group and aggregate.
-# Matplotlib/Seaborn (5 problems): Data visualization.
-# Plot bar graphs, line plots, and histograms.
-# 14. Working with APIs (5 problems)
-# Learn how to interact with REST APIs.
-# Example Problems:
-# Fetch live data from an API and store it in a file.
-# 15. Data Science Concepts (10 problems)
-# Basic data cleaning, exploratory data analysis, and visualization.
-# Example Problems:
-# Perform exploratory data analysis on a given dataset (e.g., Titanic dataset).
-# Visualize the relationship between variables using scatter plots.
-# 16. Projects
-# Finally, apply what you've learned in mini-projects.
-# Examples:
-# Build a simple Recommendation System.
-# Create a Movie Database with search and filter features.
-# # By solving problems in this progressive manner, you'll not only learn Python but also strengthen your problem-solving skills, which is essential for Data Science.
+# # Read a CSV, filter data, group and aggregate.
+# # Matplotlib/Seaborn (5 problems): Data visualization.
+# # Plot bar graphs, line plots, and histograms.
+# # 14. Working with APIs (5 problems)
+# # Learn how to interact with REST APIs.
+# # Example Problems:
+# # Fetch live data from an API and store it in a file.
+# # 15. Data Science Concepts (10 problems)
+# # Basic data cleaning, exploratory data analysis, and visualization.
+# # Example Problems:
+# # Perform exploratory data analysis on a given dataset (e.g., Titanic dataset).
+# # Visualize the relationship between variables using scatter plots.
+# # 16. Projects
+# # Finally, apply what you've learned in mini-projects.
+# # Examples:
+# # Build a simple Recommendation System.
+# # Create a Movie Database with search and filter features.
+# # # By solving problems in this progressive manner, you'll not only learn Python but also strengthen your problem-solving skills, which is essential for Data Science.
 
-# now one by one suggest me the problem from every single topic like -Basic Syntax and Data Types (10 problems)there 10 problem assist me if I'm wrong then help to figure out the problem
-
-
-# Hello, World! Program
-# Task:
-# Write a Python program that prints the phrase "Hello, World!" to the console.
-
-# Concepts Covered:
-# Basic syntax
-# Using the print() function to output text
-# Solution Example:
-# python
-# Copy code
-# This program prints Hello, World!
-
-print("Hello, World!")
-print("this is jarvis speaking sir")
+# # now one by one suggest me the problem from every single topic like -Basic Syntax and Data Types (10 problems)there 10 problem assist me if I'm wrong then help to figure out the problem
 
 
-# Problem 2: Simple Input/Output
-# Task:
-# Write a Python program that asks the user for their name and prints a greeting message.
+# # Hello, World! Program
+# # Task:
+# # Write a Python program that prints the phrase "Hello, World!" to the console.
 
-# Concepts Covered:
-# Taking input from the user using input()
-# Concatenating strings
-# Printing output
-# Example:
-# python
-# Copy code
-# Ask the user for their name
+# # Concepts Covered:
+# # Basic syntax
+# # Using the print() function to output text
+# # Solution Example:
+# # python
+# # Copy code
+# # This program prints Hello, World!
 
-# name = input("Enter your name: ")
-
-# # Print a greeting message
-# print("Hello, " + name + "! Welcome to Python programming.")
-
-# print("enter the text you want to print")
-
-# text = input("Enter the text: ")
-
-# print("this is the example of the text",text)
+# print("Hello, World!")
+# print("this is jarvis speaking sir")
 
 
-# nmae = (input("enter your name"))
-# print(nmae, "Enter your name")
+# # Problem 2: Simple Input/Output
+# # Task:
+# # Write a Python program that asks the user for their name and prints a greeting message.
+
+# # Concepts Covered:
+# # Taking input from the user using input()
+# # Concatenating strings
+# # Printing output
+# # Example:
+# # python
+# # Copy code
+# # Ask the user for their name
+
+# # name = input("Enter your name: ")
+
+# # # Print a greeting message
+# # print("Hello, " + name + "! Welcome to Python programming.")
+
+# # print("enter the text you want to print")
+
+# # text = input("Enter the text: ")
+
+# # print("this is the example of the text",text)
+
+
+# # nmae = (input("enter your name"))
+# # print(nmae, "Enter your name")
 
 
 
 
-# Problem 3: Simple Calculator
-# Task:
-# Write a Python program that asks the user for two numbers and then prints the sum of those numbers.
+# # Problem 3: Simple Calculator
+# # Task:
+# # Write a Python program that asks the user for two numbers and then prints the sum of those numbers.
 
-# Concepts Covered:
-# Taking input from the user using input()
-# Converting string input to integers or floats using int() or float()
-# Performing basic arithmetic operations
-# Printing output
-# Example:
-# python
-# Copy code
-# # Ask the user for two numbers
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+# # Concepts Covered:
+# # Taking input from the user using input()
+# # Converting string input to integers or floats using int() or float()
+# # Performing basic arithmetic operations
+# # Printing output
+# # Example:
+# # python
+# # Copy code
+# # # Ask the user for two numbers
+# num1 = float(input("Enter the first number: "))
+# num2 = float(input("Enter the second number: "))
 
-# Calculate the sum
-sum_result = num1 + num2
+# # Calculate the sum
+# sum_result = num1 + num2
 
-# Print the result
-print("The sum of", num1, "and", num2, "is:", sum_result)
-# Explanation:
-# input() takes user input as a string. We use float() to convert the input to a floating-point number, so the program can handle both integers and decimal numbers.
-sum_result = num1 + num2 
-# performs the addition.
-# The result is printed using the print() function, which combines variables and strings to display the output.
-# Try it out and see how it works! Let me know when you're ready for the next problem.
+# # Print the result
+# print("The sum of", num1, "and", num2, "is:", sum_result)
+# # Explanation:
+# # input() takes user input as a string. We use float() to convert the input to a floating-point number, so the program can handle both integers and decimal numbers.
+# sum_result = num1 + num2 
+# # performs the addition.
+# # The result is printed using the print() function, which combines variables and strings to display the output.
+# # Try it out and see how it works! Let me know when you're ready for the next problem.
 
 
