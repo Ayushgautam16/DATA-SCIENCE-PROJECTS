@@ -18,5 +18,5 @@
 
 
 # main game loop
-while True:
-    wn.update()
+# while True:
+#     wn.update()
