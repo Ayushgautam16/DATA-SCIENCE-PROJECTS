@@ -1,2 +1,2 @@
-import pandas as pd
-data__csv = pd.read_csv(data
+# import pandas as pd
+# data__csv = pd.read_csv(data
