@@ -12,5 +12,5 @@ def fetchAndSaveToFile(url, path):
     with open(path, 'w') as f:
         f.write(r.text)
 
-url = 'https://timesofindia.indiatimes.com/'
-fetchAndSaveToFile(url, "data/times.html")
+# url = 'https://timesofindia.indiatimes.com/'
+# fetchAndSaveToFile(url, "data/times.html")
