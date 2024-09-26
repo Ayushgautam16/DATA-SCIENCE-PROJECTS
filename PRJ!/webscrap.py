@@ -1,7 +1,7 @@
-import os
-import requests
+# import os
+# import requests
 
-def fetchAndSaveToFile(url, path):
+# def fetchAndSaveToFile(url, path):
     # Create directory if it doesn't exist
     # directory = os.path.dirname(path)
     # if not os.path.exists(directory):
