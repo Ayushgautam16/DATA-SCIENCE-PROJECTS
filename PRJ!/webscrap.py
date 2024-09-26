@@ -8,9 +8,9 @@ def fetchAndSaveToFile(url, path):
         os.makedirs(directory)
     
     # Fetch the URL content and save to file
-    r = requests.get(url)
-    with open(path, 'w') as f:
-        f.write(r.text)
+    # r = requests.get(url)
+    # with open(path, 'w') as f:
+    #     f.write(r.text)
 
 # url = 'https://timesofindia.indiatimes.com/'
 # fetchAndSaveToFile(url, "data/times.html")
