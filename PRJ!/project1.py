@@ -24,6 +24,6 @@ def guess(x):
     random_nummber =  random.randint(1,x)
 
     while guess != random_number:
-        guess = input ("guess a number:"):
+        guess = input ("guess a number:")
 
         
