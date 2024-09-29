@@ -8,10 +8,10 @@
 
 
 
-adjective = input("adjective:")
-verb1 = input("verb: ")
-verb2 = input("verb: ")
-famous_person = input("famous person: ")
+# adjective = input("adjective:")
+# verb1 = input("verb: ")
+# verb2 = input("verb: ")
+# famous_person = input("famous person: ")
  
 madlib = "computer is the mischeviewer in this world{adjective} it makes me so excited all the time because i love to {verb1} stay hydrated and {verb2} like you are" 
 
