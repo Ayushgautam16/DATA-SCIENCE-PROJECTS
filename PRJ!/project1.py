@@ -19,8 +19,8 @@
 
 
 # guess the number
-import random
-def guess(x):
+# import random
+# def guess(x):
     random_nummber =  random.randint(1,x)
 
     while guess != random_number:
