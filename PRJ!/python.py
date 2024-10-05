@@ -1,8 +1,6 @@
 
 # if "a" in mylist:
-#     mylist.remove("a")
-
-#     print(mylist)
+# 
 
 # if "a" in mylist:
 #     print("aaye aaye captain")
