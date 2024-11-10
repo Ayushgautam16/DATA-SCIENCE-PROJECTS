@@ -11,10 +11,10 @@
 
 # matrix_ones = np.ones((5, 5))
 
-# print(matrix_ones)
+print(matrix_ones)
 
 
-# matrix_ones = np.ones((2, 4,2))
+matrix_ones = np.ones((2, 4,2))
 
 print(matrix_ones)
 
