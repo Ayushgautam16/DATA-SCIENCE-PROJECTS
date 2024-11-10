@@ -27,7 +27,7 @@
 
 
 
-# # repeat n times of numpy iteration
+# repeat n times of numpy iteration
 
 arr = np.array([1, 2, 3, 4, 5])
 r1 = np.repeat(arr,3, 0)
