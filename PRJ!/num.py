@@ -21,9 +21,9 @@
 
 # # random num matrix in numpy
 
-# matrix_random = np.random.rand(5, 2)
+matrix_random = np.random.rand(5, 2)
 
-# print(matrix_random)
+print(matrix_random)
 
 
 
