@@ -16,10 +16,10 @@
 
 # matrix_ones = np.ones((2, 4,2))
 
-# print(matrix_ones)
+print(matrix_ones)
 
 
-# # random num matrix in numpy
+# random num matrix in numpy
 
 matrix_random = np.random.rand(5, 2)
 
