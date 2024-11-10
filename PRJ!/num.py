@@ -7,9 +7,9 @@
 
 # print(matrix)
 
-# # all 1s matrix in numpy
+# all 1s matrix in numpy
 
-# matrix_ones = np.ones((5, 5))
+matrix_ones = np.ones((5, 5))
 
 print(matrix_ones)
 
